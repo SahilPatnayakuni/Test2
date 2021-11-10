@@ -10,4 +10,5 @@ print("=====")
 print(dict_var.get('some_key', None))
 print(dict_var.get('wrong-parens', None))
 print(dict_var.get('wrong-parens', None))
+
 print(dict_var.get('some_key'))
