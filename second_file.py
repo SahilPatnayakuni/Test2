@@ -1,4 +1,9 @@
+print("good python code")
+print("good python code")
+print("some different python code")
+
+
 print("This statement doesn't have close quotes)
-empty_dict = {}
-print(empty_dict.get("hello", "hello is not in dict"))
-empty_dict.get("goodbye", None)
+test_dict = {"hello": "hellovalue", "goodbye": "goodbyevaleus"}
+print(test_dict.get("hello", "hello is not in dict"))
+test_dict.get("goodbye", None)
