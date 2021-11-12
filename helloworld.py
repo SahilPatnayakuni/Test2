@@ -16,3 +16,5 @@ print("=======")
 print('\n')
 print('\t')
 print(dict_var.get('key2'))
+dict_var = {}
+print(dict_var.get('some_key', None))
