@@ -6,3 +6,4 @@ dict_var = {}
 print(dict_var.get('some_key', None))
 print(dict_var.get('asdfasdf, None)
 print("added line")
+hello = "hello"
